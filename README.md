@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kunalgehlot73
+- 👋 Hi, I’m Kunal Gehlot
 - 👀 I’m interested in Coding and Gaming
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
