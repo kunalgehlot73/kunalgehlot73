@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a web-dev enthusiast.<br>I’m currently learning backend development.<br>I’m looking to collaborate on python projects.<br>Some of my works -<br>   - [Netflix-Ui-Clone (Fully Responsive)](https://kunalgehlot73.github.io/Netflix-UI-Clone/)<br>  - [Cineverse (Movie Review Website)](https://github.com/kunalgehlot73/Cineverse)<br>  - [Outlook Sign-in Page (Clone)](https://kunalgehlot73.github.io/Outlook/)
+I'm a web-dev enthusiast.<br>I’m currently learning backend development.<br>I’m looking to collaborate on python projects.<br>Some of my works -<br>   - [Netflix-Ui-Clone (Fully Responsive)](https://kunalgehlot73.github.io/Netflix-UI-Clone/)<br>  - [Cineverse (Movie Review Website)](https://github.com/kunalgehlot73/Cineverse)
 
 
 ## 🌐 Socials:
