@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a web-dev enthusiast.<br>I’m currently learning full-stack development.<br>I’m looking to collaborate on python projects.<br>Some of my works -<br>   <li>[Netflix-Ui-Clone (Fully Responsive)](https://kunalgehlot73.github.io/Netflix-UI-Clone/)<br>  <li>[Cineverse (Movie Review Website)](https://github.com/kunalgehlot73/Cineverse)
-
+I'm a web-dev enthusiast.<br>I’m currently learning full-stack development.<br>I’m looking to collaborate on python projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/forbidden_kunal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-gehlot-200415319) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/kunalgehlot07) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalgehlot73@gmail.com) 
