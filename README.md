@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning Data Structures and Algorithms.
+I’m currently learning Data Structures and Algorithms and working on building profiency in Data Science for Artificial Intelligence and Machine Learning.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kunal_0226) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-gehlot-200415319) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/kunalgehlot07) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalgehlot73@gmail.com) 
